@@ -1,0 +1,8 @@
+flask
+gunicorn
+baostock
+yfinance
+pandas
+requests
+python-dotenv
+lark-oapi
